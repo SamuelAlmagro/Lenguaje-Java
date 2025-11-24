@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=asignarEstudiante2
+comment1.params=nombreE\ nombreP\ list1\ list2\ list3
+comment1.target=asignarEstudiante2(java.lang.String,\ java.lang.String,\ empleados.LinkedListMedico,\ empleados.LinkedListEnfermeria,\ empleados.LinkedListEstudiante)
+numComments=2

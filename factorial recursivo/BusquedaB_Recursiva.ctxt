@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BusquedaB_Recursiva
+comment1.params=a\ elem\ ini\ end
+comment1.target=int\ BusquedaRec(int[],\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

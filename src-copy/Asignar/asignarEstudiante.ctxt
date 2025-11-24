@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=asignarEstudiante
+comment1.params=list1\ estudiante
+comment1.target=asignarEstudiante(empleados.LinkedListEnfermeria,\ empleados.estudianteNodo)
+comment1.text=\r\n\ constructor\ que\ asigna\ estudantes\ a\ enfermeros.\r\n\r\n\ @pre\ lista\ no\ vacia\ (list1).\r\n\ @pre\ nodo\ no\ vaci0\ (estudiante).\r\n\ @pre\ nodo\ estudiante.med\ \=\=\ false.\r\n\ @param\ list1\ la\ lista\ con\ todos\ los\ enfermeros.\r\n\ @param\ estudiante\ nodo\ con\ la\ informacion\ del\ estudiante.\r\n
+comment2.params=list1\ estudiante
+comment2.target=asignarEstudiante(empleados.LinkedListMedico,\ empleados.estudianteNodo)
+comment2.text=\r\n\ constructor\ que\ asigna\ estudantes\ a\ enfermeros.\r\n\r\n\ @pre\ lista\ no\ vacia\ (list1).\r\n\ @pre\ nodo\ no\ vaci0\ (estudiante).\r\n\ @pre\ nodo\ estudiante.med\ \=\=\ true.\r\n\ @param\ list1\ la\ lista\ con\ todos\ los\ medicos.\r\n\ @param\ estudiante\ nodo\ con\ la\ informacion\ del\ estudiante.\r\n
+numComments=3

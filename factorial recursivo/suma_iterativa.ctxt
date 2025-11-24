@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=suma_iterativa
+comment1.params=n
+comment1.target=long\ getSuma(int)
+comment2.params=n
+comment2.target=long\ sumaIterativa(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

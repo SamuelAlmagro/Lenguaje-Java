@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AgendaNodo2
+comment1.params=nombrepaciente\ Prueba\ tratamiento\ cadenaHoras
+comment1.target=AgendaNodo2(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ constructor\ inserta\ una\ entrada\ en\ la\ agenda\ de\ un\ medico\r\n\ \r\n\ @pre\ ninguno\ de\ los\ parametros\ es\ null.\r\n\ @param\ nombrepaciente\ nombre\ del\ paciente.\r\n\ @param\ anotacion\ anotacion\ del\ enf.\r\n\ @param\ tratamiento\ tratamiento\ del\ paciente.\r\n\ @param\ cadenaHoras\ fecha+hora.\r\n
+numComments=2

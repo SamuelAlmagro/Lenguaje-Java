@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=suma_Recursiva
+comment1.params=a
+comment1.target=long\ getSuma(int)
+comment2.params=n
+comment2.target=long\ sumaRecursiva(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

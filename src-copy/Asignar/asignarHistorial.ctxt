@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=asignarHistorial
+comment1.params=list\ NombreP\ NombreM\ anotacion\ Tratamiento\ cadenaHoras\ uci\ seguroMedico\ Prueba
+comment1.target=asignarHistorial(Pacientes.altaPaciente,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String)
+comment1.text=\r\n\ constructor\ que\ actualiza\ el\ expediente/historial\ clinico\ de\ un\ paciente.\r\n\r\n\ @pre\ en\ el\ paciente\ debe\ de\ estar\ en\ la\ lista.\r\n\ @param\ list\ la\ lista\ con\ todos\ los\ pacientes\ y\ sus\ historiales.\r\n\ @param\ NombreP\ nombre\ del\ paciente.\r\n\ @param\ NombreM\ nombre\ del\ medico/enfermero.\r\n\ @param\ anotacion\ anotacion\ del\ medico/enfermero.\r\n\ @param\ Tratamiento\ Tratamiento\ que\ requirio\ el\ paciente.\r\n\ @param\ cadenaHoras\ fecha\ y\ hora\ de\ la\ cita.\r\n\ @param\ uci\ requirio\ el\ paciente\ de\ uci?.\r\n\ @param\ seguroMedico\ el\ paciente\ tiene\ seguro\ Medico.\r\n
+numComments=2

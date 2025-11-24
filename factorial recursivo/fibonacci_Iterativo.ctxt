@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=fibonacci_Iterativo
+comment1.params=n
+comment1.target=long\ getFibonacci(int)
+comment2.params=n
+comment2.target=long\ FibonacciIterativo(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

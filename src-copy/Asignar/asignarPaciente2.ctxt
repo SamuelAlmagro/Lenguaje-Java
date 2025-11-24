@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=asignarPaciente2
+comment1.params=enfermero\ paciente\ list3
+comment1.target=asignarPaciente2(empleados.EnfermeriaNodo,\ Pacientes.Pacientes_nodo,\ Pacientes.altaPaciente)
+comment1.text=\r\n\ constructor\ que\ asigna\ un\ paciente\ a\ un\ enfermero.\r\n\r\n\ @pre\ en\ el\ nodo\ de\ paciente\ med\=false.\r\n\ @pre\ el\ nodo\ de\ pacinete\ \!\=\ null.\r\n\ @param\ la\ lista\ con\ todos\ los\ enfermeros.\r\n\ @param\ un\ nodo\ Pacientes_nodo\ (es\ la\ lista\ de\ los\ pacientes\ a\ tratar).\r\n\ @param\ la\ lista\ de\ pacientes(esto\ es\ el\ historial).\r\n
+comment2.params=medico\ paciente\ list3
+comment2.target=asignarPaciente2(empleados.medicoNodo,\ Pacientes.Pacientes_nodo,\ Pacientes.altaPaciente)
+comment2.text=\r\n\ constructor\ que\ asigna\ un\ paciente\ a\ un\ medico.\r\n\r\n\ @pre\ en\ el\ nodo\ de\ paciente\ med\=true.\r\n\ @pre\ el\ nodo\ de\ pacinete\ \!\=\ null.\r\n\ @param\ list1\ la\ lista\ con\ todos\ los\ medicos.\r\n\ @param\ paciente\ un\ nodo\ Pacientes_nodo\ (es\ la\ lista\ de\ los\ pacientes\ a\ tratar).\r\n\ @param\ list3\ la\ lista\ de\ pacientes(esto\ es\ el\ historial).\r\n
+numComments=3
